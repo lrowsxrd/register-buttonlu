@@ -1,0 +1,30 @@
+{
+  "botToken": "ODUxMTU5NzU1NzI3OTYyMTYy.YL0OSw.yBj_Q0gUjwjom5ED9kQVRfSzxys",
+  "botOwner": "403981976022810634",
+  "botPrefix": "!",
+  "botVoiceChannel": "857265395639517207",
+  "botActivityName": "Lrows💖Register",
+  "botActivityType": "WATCHING",
+  "botStatus": "idle",
+
+  "mongoConnectionLink": "mongodb+srv://lrows:kerem2121@cluster0.w3cv9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+  "welcomeChannel": "857268614150357012",
+  "rulesChannel": "857266416288661535",
+  "Suspicious": "857266453388722176",
+  "Unregistered": "857266480071573514",
+
+
+  "FamilyRole": "857266635320983603",
+  "Tag": "✩",
+  "Untag": "・",
+
+  "RegisterStaff": ["857266537269297224", ""],
+  "ManRole": "857266919803584512",
+  "WomanRole": "857266949541068840",
+  "BoosterRole": "BOOSTERROLU",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}
