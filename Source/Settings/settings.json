@@ -1,27 +1,27 @@
 {
-  "botToken": "ODUxMTU5NzU1NzI3OTYyMTYy.YL0OSw.yBj_Q0gUjwjom5ED9kQVRfSzxys",
-  "botOwner": "403981976022810634",
-  "botPrefix": "!",
-  "botVoiceChannel": "857265395639517207",
-  "botActivityName": "Lrows💖Register",
+  "botToken": "TOKEN",
+  "botOwner": "SAHIP ID",
+  "botPrefix": "PREFIX",
+  "botVoiceChannel": "BOT SES KANALI",
+  "botActivityName": "BOT DURUM",
   "botActivityType": "WATCHING",
   "botStatus": "idle",
 
-  "mongoConnectionLink": "mongodb+srv://lrows:kerem2121@cluster0.w3cv9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongoConnectionLink": "",
 
-  "welcomeChannel": "857268614150357012",
-  "rulesChannel": "857266416288661535",
-  "Suspicious": "857266453388722176",
-  "Unregistered": "857266480071573514",
+  "welcomeChannel": "REGISTER CHANNEL ID",
+  "rulesChannel": "KURAL KANAL ID",
+  "Suspicious": "ŞÜPHELİ ROL ID",
+  "Unregistered": "KAYITSIZ ROL ID",
 
 
-  "FamilyRole": "857266635320983603",
-  "Tag": "✩",
+  "FamilyRole": "TAGLI ROL ID",
+  "Tag": "TAG",
   "Untag": "・",
 
-  "RegisterStaff": ["857266537269297224", ""],
-  "ManRole": "857266919803584512",
-  "WomanRole": "857266949541068840",
+  "RegisterStaff": ["KAYITCI1", "KAYITCI2"],
+  "ManRole": "ERKEK ROLU ID",
+  "WomanRole": "KADIN ROLU ID",
   "BoosterRole": "BOOSTERROLU",
 
   "Yes": "✅",
